@@ -26,6 +26,7 @@
 - [Maker Shed: Arduino | Raspberry Pi | 3D Printers | Microcontroller Kit](http://www.makershed.com/)
 - [CodeNewbie: Getting Starting with Making](http://www.codenewbie.org/blogs/getting-starting-with-making)
 - [CodeNewbie: Hardware Not So Hard](http://www.codenewbie.org/blogs/hardware-not-so-hard)
+- [ROHM Electronics Fundamentals](http://www.rohm.com/web/global/en_index)
 
 ### Funny
 - [E-mail Pranks](http://dontevenreply.com/)
